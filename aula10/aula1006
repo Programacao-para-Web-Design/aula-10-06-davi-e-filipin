@@ -10,7 +10,7 @@
       <img id=img src="LogoEscola.png"/>
 	  <nav id="nav">
 		<h1 id="titulo">  Matérias </h1>
-		 		<a href="#um">APS </a> 
+		 		<a href="#um"> APS </a> 
 		 		<a href="#dois"> PWD </a> 
 				<a href="#tres"> DG </a> 
     </nav>
