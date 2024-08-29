@@ -1,5 +1,5 @@
 
-#dev{
+#devj{
 
 			font-size:: 12px;
 			text-align: center;
@@ -8,8 +8,8 @@
 		}
 		#ceemti{
 
-			background: -webkit-gradient(linear, left top, right top, from(#FF0000), to(#DF0101)) no-repeat;
-            		background: -moz-linear-gradient(left, #FF0000, #DF0101);
+			background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
+            		background: -moz-linear-gradient(left, #505569, #031c7a);
             		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
 			justify-content: center;
 			align-items: center;
@@ -26,7 +26,7 @@
 						
 		}
 		body{
-			background-color: black;
+			background-color: #bafab2fc;
 		}
 
 		.Aula{
@@ -43,7 +43,7 @@
 		}
 
 		header{
-            		background: -webkit-gradient(linear, left top, right top, from(#000000), to(#DF0101)) no-repeat;
+            		background: -webkit-gradient(linear, left top, right top, from(#bac4eb), to(#0733d6)) no-repeat;
             		background: -moz-linear-gradient(left, #505569, #031c7a);
             		filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#bac4eb', EndColorStr='#0733d6');            
 			justify-content: center;
@@ -54,7 +54,7 @@
 
 		#Progwebparwebdesign{
 
-			background-color: red;
+			background-color: #ffc2ea;
 			justify-content: center;
 			align-items: center;
 			text-align: center;
@@ -66,7 +66,7 @@
 		}
 		#Desenvdegames{
 
-			background-color: red;  
+			background-color: yellow;  
 			justify-content: center;
 			align-items: center;
 			text-align: center;
@@ -87,10 +87,10 @@
 			
 		}
 
-		#123{
+		#Nasa{
 	    
 			display: flex;
-			background-color: #FF0000;
+			background-color: #f5f4ce;
 			box-shadow: 7px 7px 9px 0px black;
 			font-weight: bold;
 			font-size: 20px;
@@ -106,11 +106,11 @@
 			text-align: center; 
 		}
 
-		#baixo{
+		#pezin{
 
-		    	background-color: red;
+		    	background-color: #a7f1f5fc;
 			width: 100%;
-        		color: white;
+        		color: black;
 			position: absolut;
         
 		}
